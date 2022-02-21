@@ -1,0 +1,33 @@
+body {
+  background-color: #EFEFEF;
+  color: black;}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: darkslategray;
+  border-width: thick;
+  width: 10%;
+}
+
+h1 {color: #364F6B; color: black;}
+
+h4 {
+  text-decoration: underline;
+}
+
+a {
+  text-align: center;
+}
+
+
+.top-description {
+    text-align: center;
+}
+
+.introPic {
+  height: 200px;
+  width: 100%;
+  object-fit: scale-down;
+  position: relative;
+}
